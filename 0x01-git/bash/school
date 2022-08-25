@@ -1,2 +1,3 @@
-#!/binbash
-echo "The school is open"
+#!/bin/bash
+The school is open!
+echo "The school is open!"
